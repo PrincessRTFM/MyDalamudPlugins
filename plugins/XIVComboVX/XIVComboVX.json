@@ -1,0 +1,16 @@
+{
+  "Author": "attick, daemitus, VariableVixen",
+  "Name": "XIV Combo Very Expanded",
+  "InternalName": "XIVComboVX",
+  "AssemblyVersion": "9.18.0",
+  "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Why can't I hold all these buttons?",
+  "AcceptsFeedback": true
+}

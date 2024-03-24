@@ -1,0 +1,16 @@
+{
+  "Author": "VariableVixen",
+  "Name": "WoLua",
+  "InternalName": "WoLua",
+  "AssemblyVersion": "3.6.0",
+  "Description": "Write custom chat commands by creating lua scripts",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Write your own custom chat commands in lua!",
+  "AcceptsFeedback": true
+}

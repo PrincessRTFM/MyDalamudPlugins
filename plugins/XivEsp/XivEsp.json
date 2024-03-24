@@ -1,0 +1,16 @@
+{
+  "Author": "VariableVixen",
+  "Name": "XivEsp",
+  "InternalName": "XivEsp",
+  "AssemblyVersion": "1.3.0.0",
+  "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PrincessRTFM/XivEsp",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Search and tag nearby things based on their name!",
+  "AcceptsFeedback": true
+}

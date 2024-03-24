@@ -1,0 +1,16 @@
+{
+  "Author": "VariableVixen",
+  "Name": "TinyCommands",
+  "InternalName": "TinyCmds",
+  "AssemblyVersion": "8.8.0",
+  "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Tiny, GUI-less convenience commands designed to make macros more powerful",
+  "AcceptsFeedback": true
+}
