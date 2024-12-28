@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1734739484"
+        "LastUpdated": "1735429658"
     },
     {
         "Author": "VariableVixen",
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/TinyCmds/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1734739484"
+        "LastUpdated": "1735429658"
     },
     {
         "Author": "VariableVixen",
@@ -48,23 +48,29 @@
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1734739484"
+        "LastUpdated": "1735429658"
     },
     {
         "Author": "VariableVixen",
         "Name": "XivEsp",
         "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
         "InternalName": "XivEsp",
-        "AssemblyVersion": "1.6.0.0",
+        "AssemblyVersion": "1.7.0.0",
         "RepoUrl": "https://github.com/PrincessRTFM/XivEsp",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
+        "Tags": [
+            "search",
+            "esp",
+            "find",
+            "locate"
+        ],
+        "DalamudApiLevel": 11,
         "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1734739484"
+        "LastUpdated": "1735429658"
     }
 ]
